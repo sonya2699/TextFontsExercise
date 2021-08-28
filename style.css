@@ -1,0 +1,47 @@
+:root{
+    font-family: 'Orbitron', sans-serif;
+}
+li #span {
+   font-weight: bold;
+}
+h1 {
+    letter-spacing: 10px;
+    text-align: center;
+    text-size-adjust: 50px; 
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+div :nth-child(1){
+    text-size-adjust: 20px;
+}
+h2 {
+    font-size: 2.5em;
+}
+li {
+    line-height: 2;   
+}
+div :nth-child(2) {
+     text-size-adjust: 18px;
+}
+h4 {
+    letter-spacing: 15px;
+font-family: 'Press Start 2P', cursive;
+}
+    
+
+h2,h3,h4 {
+    text-align: center;
+}
+li {
+    text-size-adjust: 1rem;
+}
+body {
+    color: rgba(255,255,255,0.6);
+}
+body {
+    background-image:url(starTrek.jpg);
+    background-position: center;
+    background-size: cover;
+}   
+
+
